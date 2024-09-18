@@ -1,4 +1,4 @@
-![Full stack developer and datat scientist holding Ph.D. in material science](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Full stack developer and datat scientist holding Ph.D. in material science](https://raw.githubusercontent.com/RoadRana/RoadRana/main/banner%20photo.webp)
 
 ## Hi there 👋,
 My name is Rana Adel,Full-stack developer and datat scientist holding Ph.D. in material science.
