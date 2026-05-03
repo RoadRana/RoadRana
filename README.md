@@ -87,103 +87,50 @@ Stack: Python · Data Analysis · Spectroscopy · Scientific Computing
 
 ## Featured Projects
 
+| Project | Stack | Highlights |
+|---------|-------|------------|
+| **REALM — Financial Operations Platform** Dragons Group 2025 | ![TS](https://img.shields.io/badge/TS-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Vue3](https://img.shields.io/badge/Vue_3-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D) ![Node](https://img.shields.io/badge/Node-43853D?style=flat-square&logo=node.js&logoColor=white) | 15+ RESTful APIs, purchase-order workflows, multi-dept approval chains. ~30% reduction in manual processing. |
+| **Habit Tracker Web App** Personal 2024 | ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Node](https://img.shields.io/badge/Node-43853D?style=flat-square&logo=node.js&logoColor=white) ![PG](https://img.shields.io/badge/PG-316192?style=flat-square&logo=postgresql&logoColor=white) | JWT auth, real-time Chart.js analytics dashboards, CI/CD via GitHub Actions. |
+| [**ENVICTUS — Robotics Website**](https://github.com/RoadRana/Invictus) Personal 2024 | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Dynamic product-filtering system. 30% user engagement increase, 20% faster load time via Lighthouse. |
+| [**AirBnB EDA**](https://github.com/RoadRana/Rana-_Adel_Data-Science-EDA_airbnb) Data Science 2023 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | Exploratory data analysis: cleaning, visualisation, and statistical insights with Pandas, Seaborn, Matplotlib. |
+
+---
+
+## GitHub Stats
+
 <div align="center">
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+![Rana GitHub Stats](https://github-readme-stats.vercel.app/api?username=RoadRana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RoadRana&layout=compact&theme=tokyonight&hide_border=true)
 
-      ### REALM — Financial Operations Platform
-      ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-      ![Vue 3](https://img.shields.io/badge/Vue_3-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-      ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+</div>
 
-      Enterprise platform for purchase-order workflows, budget tracking, and multi-department approval chains. 15+ RESTful APIs, reactive frontend modules, CI/CD pipeline.
+---
 
-      **Dragons Group · 2025**
+## Education
 
-      </td>
-      <td width="50%" valign="top">
+**Full Stack Software Development Bootcamp** — MigraCode · Barcelona · 2023–2024
 
-      ### Habit Tracker Web App
-      ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-      ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-      ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+**Data Science Bootcamp** — CodeOp · Barcelona · 2023–2024
 
-      Full-stack app with RESTful Node.js/Express backend, JWT authentication, real-time analytics dashboards with Chart.js, and a CI/CD pipeline on GitHub Actions.
+**Ph.D. in Materials Science** — Universitat Autonoma de Barcelona · 2017–2022
+Thesis: Organic solar module degradation mechanisms. ITN Marie Curie SEPOMO Fellow.
 
-      **Personal Project · 2024**
+**Master's in Optics** — Ain Shams University · Egypt · 2017
 
-      </td>
-      </tr>
-      <tr>
-      <td width="50%" valign="top">
+**BSc Materials Physics** — Ain Shams University · Egypt · 2009
 
-      ### ENVICTUS — Robotics Product Website
-      [![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://github.com/RoadRana/Invictus)
-      ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+---
 
-      Responsive React frontend consuming REST APIs with a dynamic product-filtering system. Reduced page load time by 20% via Lighthouse optimisations.
+## Publications
 
-      **Personal Project · 2024** | [View Repo](https://github.com/RoadRana/Invictus)
+Published research on organic solar module degradation and spectroscopic analysis.
+View full list on [Google Scholar](https://scholar.google.com).
 
-      </td>
-      <td width="50%" valign="top">
+---
 
-      ### AirBnB EDA — Data Science
-      [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://github.com/RoadRana/Rana-_Adel_Data-Science-EDA_airbnb)
-      ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-      ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+<div align="center">
 
-      Exploratory data analysis on the AirBnB dataset: cleaning, visualisation, and statistical insights using Python, Pandas, Seaborn, and Matplotlib.
+*Open to mid-to-senior Full Stack or Full Stack + Data roles in Barcelona or remote EU*
 
-      **Data Science · 2023** | [View Repo](https://github.com/RoadRana/Rana-_Adel_Data-Science-EDA_airbnb)
-
-      </td>
-      </tr>
-      </table>
-
-      </div>
-
-      ---
-
-      ## GitHub Stats
-
-      <div align="center">
-
-      ![Rana GitHub Stats](https://github-readme-stats.vercel.app/api?username=RoadRana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-      ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RoadRana&layout=compact&theme=tokyonight&hide_border=true)
-
-      </div>
-
-      ---
-
-      ## Education
-
-      **Full Stack Software Development Bootcamp** — MigraCode · Barcelona · 2023–2024
-
-      **Data Science Bootcamp** — CodeOp · Barcelona · 2023–2024
-
-      **Ph.D. in Materials Science** — Universitat Autonoma de Barcelona · 2017–2022
-      Thesis: Organic solar module degradation mechanisms. ITN Marie Curie SEPOMO Fellow.
-
-      **Master's in Optics** — Ain Shams University · Egypt · 2017
-
-      **BSc Materials Physics** — Ain Shams University · Egypt · 2009
-
-      ---
-
-      ## Publications
-
-      Published research on organic solar module degradation and spectroscopic analysis.
-      View full list on [Google Scholar](https://scholar.google.com).
-
-      ---
-
-      <div align="center">
-
-      *Open to mid-to-senior Full Stack or Full Stack + Data roles in Barcelona or remote EU*
-
-      </div>
-  </tr>
-</table>
+</div>
